@@ -12,4 +12,3 @@ export default function About() {
     </>
   );
 }
-<h1>Line added</h1>;
